@@ -2,7 +2,7 @@ body
 {
     color: #333;
 text-align: left;
-font-family: "Arial";
+font-family: "Helvetica";
 font-size: 20px;
 margin: 0;
 padding: 0;
@@ -10,7 +10,7 @@ padding: 0;
 #cabecera
 {
     background: #33A;
-    box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -21,7 +21,7 @@ padding: 0;
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: small;
+    font-family: monospace;
     font-size: 0.8em;
 
 }
