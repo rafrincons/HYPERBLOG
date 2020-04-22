@@ -15,12 +15,8 @@ padding: 0;
     color: white;
     font-size: 1.5em;
     margin: 0;
-<<<<<<< HEAD
     padding: 0.5em 0 0.5em 0.9em;
     
-=======
-    padding: 0.5em 0 0.5em 2em;
->>>>>>> 3cce695e17e20e9205a01cdcade2729beb78adf4
 
 }
 #cabecera #logo
@@ -51,8 +47,9 @@ padding: 0;
     font-size: 20px;
 
 }
-#post
+#footer
 {
-    background-attachment: fixed;
-    padding: 1em;
+    background-color: teal;
+    color:white;
+    text-align: center;
 }
